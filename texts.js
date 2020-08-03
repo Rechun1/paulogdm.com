@@ -132,78 +132,73 @@ const locale = {
         title: "Pessoal",
         subtitle: "Algumas coisas sobre mim.",
         pcmasterrace: `Sempre tive um PC em casa. <br>
-        Eu montei meu primeiro PC em 2010. <br>
+        Eu montei meu primeiro PC em 2012. <br>
         PC Master Race FTW. <br>
         <a target="_blank" href="https://www.reddit.com/r/pcmasterrace/"><i class="fas fa-external-link-alt"></i></a>
         `,
-        crypto: `Eu Comecei com Litecoin e Bitcoin em 2012.
-        Só fui estudar a tecnologia a partir de 2015. <br>
-        Ethereum é sensacional! <br>
-        Se você me disser: "Eu não gosto de Bitcoin, já blockchain é muito interessante." eu morro discretamente por dentro.<br>
-        <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook"><i class="fas fa-external-link-alt"></i></a>
+        bolsa: `Eu Comecei a interagir com investimento em 2018.
+        mas só fui investir realmente no ano de 2020. <br>
+        O mercado é incrível! <br>
+        Adoro conversar e discutir sobre investimentos! 
+        E atualmente opero na Clear<br>
+        <a target="_blank" href="https://www.clear.com.br/site"><i class="fas fa-external-link-alt"></i></a>
         `,
-        overwatch: `Eu gosto muito de Overwatch! <br>
-        Meu "Career High" é 4075. <br>
-        Me considero um flex player, mas jogo melhor de tank ou suporte. <br>
-        <a target="_blank" href="https://playoverwatch.com/pt-br"><i class="fas fa-external-link-alt"></i></a>
+        League: `Eu jogo muito há um tempo League of Legends! <br>
+        Minha divisão é Diamante. <br>
+        Jogo desde 2013, Me considero um flex player, mas jogo melhor de adCarry. <br>
+        <a target="_blank" href="https://br.leagueoflegends.com/pt-br/"><i class="fas fa-external-link-alt"></i></a>
         `,
-        headphones: `Eu estou começando ainda no mundo do áudio. 
-        Mas já tenho uma coleção razoável de headphones. <br>
-        É muito divertido ouvir música com diferentes tipos de acessórios.
-        Você sabia que um bom headphone custa apenas 20 dólares? Confere aí: <br>
-        <a target="_blank" href="https://www.head-fi.org/showcase/superlux-hd-681.12304/"><i class="fas fa-external-link-alt"></i></a>
+        boardGames: `Eu estou começando ainda no mundo dos jogos de tabuleiros. <br>
+        Mas já tenho uma coleção razoável de jogos de tabuleiros. <br>
+        Adoro o ambiente que se forma de distração e de amizade.<br>
+        Você sabia que existe vários jogos com custo baixos e super divertidos? Confere aí: <br>
+        <a target="_blank" href="https://www.ludopedia.com.br/jogo/coup"><i class="fas fa-external-link-alt"></i></a>
         `,
         talk: `Você gosta de conversar? <br> 
         Gosto muito de discutir ideias e ajudar os outros. <br>
         Sou viciado em cases e leio bastante de várias fontes.<br>
-        Me segue no Twitter 👇. <br>
-        <a target="_blank" href="https://twitter.com/paulogdm"><i class="fas fa-external-link-alt"></i></a>
         `,
-        icetea: `Se você quer me ver feliz um copo de chá gelado é um bom começo! <br> 
-        Também gosto muito de sair para beber alguma coisa e apenas conversar. <br>
-        Ainda estou começando nesse mundo... <br>
+        sushi: `Se você quer me ver feliz um temaki é um bom começo! <br> 
+        Também gosto muito de sair para jogar um jogo de tabuleiro e conversar. <br>
+        adoro interagir com outras pessoas e fazer novas amizades <br>
         <a target="_blank" href="https://www.reddit.com/r/tea/"><i class="fas fa-external-link-alt"></i></a>
         `
       },
       professional: {
-        title: "Profissional",
+        title: "Profissional e acadêmico",
         subtitle: "Uma coleção de ferramentas e skills profissionais.",
-        whoami: `Eu sou um desenvolvedor "formado" em Ciências da Computação pelo ICMC da USP. <br>
+        whoami: `Eu sou um desenvolvedor "graduando" em Estátistica e Ciência de dados pelo ICMC da USP. <br>
         A maioria das coisas que aprendi e uso no dia a dia do trabalho foi por curiosidade própria. <br>
-        Motivação pra mim é um fator muito importante e minha produtividade depende muito dela. <br>
+        Minha Motivação é a minha sede de conhecimento e de alguma forma trasmiti-la . <br>
         `,
-        js: `Javasript é Hoje a linguagem que eu mais domino. <br>
-        Node.js é uma ferramenta fantástica! <br>
-        Gosto de fazer códigos simples e elegante, e me esforço para manter esse padrão em todos os meus programas. <br>
-        <a target="_blank" href="https://nodejs.org/en/"><i class="fas fa-external-link-alt"></i></a>
+        js: `Javascript é Hoje a linguagem que eu mais domino. <br>
+        React.js é uma ferramenta fantástica! <br>
+        Gosto de fazer códigos simples e elegante, e me esforço para manter esse padrão em todos os meus programas. tornando-os reutilizáveis e de fácil implementação <br>
+        <a target="_blank" href="https://pt-br.reactjs.org/"><i class="fas fa-external-link-alt"></i></a>
         `,
         python: `Python é a linguagem que eu uso para números e dados, e também para processamento de imagens.<br>
         Async e threads são ferramentas muito poderosas em python.<br>
-        Ainda quero melhorar minhas habilidades nessa linguagem.<br>
+        Tenho uma certa familiaridade com essa linguagem porém ainda quero melhorar minhas habilidades e descobrir coisas novas.<br>
         <a target="_blank" href="https://docs.python.org/3/library/asyncio.html"><i class="fas fa-external-link-alt"></i></a>
         `,
-        solidity: `Solidity é a linguagem que movimenta todo o ecossistema Ethereum. <br>
-        É uma linguagem que eu me esforcei bastante para entender, e percebi que sem os conceitos 
-        básicos de criptomoedas não tem como aprendê-la. <br>
-        <a target="_blank" href="https://www.ethereum.org/greeter"><i class="fas fa-external-link-alt"></i></a>
+        r: `R é a linguagem que movimenta todo o ecossistema da estatística. <br>
+        É uma linguagem que eu aprendi na minha vida acadêmica e que pela sua facilidade a vida de um estatístico ficou muito mais fácil. <br>
+        <a target="_blank" href="https://www.r-project.org/"><i class="fas fa-external-link-alt"></i></a>
         `,
         c: `Eu aprendi programação em C. <br>
         Portanto ela tem um lugar especial nessa lista, apesar de usá-la pouco hoje em dia. <br>
-        Alguns projetos em "CUDA" e "Programação Concorrente" eu fiz nessa linguagem. <br>
+        Alguns projetos na faculdade eu fiz nessa linguagem. <br>
         <a target="_blank" href="http://devdocs.io/c/"><i class="fas fa-external-link-alt"></i></a>
         `,
-        go: `Eu ainda não tenho conhecimentos em GO. <br>
-        É a linguagem que eu mais tenho curiosidade e ainda sou um estudante nela. <br>
-        O logo de GO é épico! <br>
-        <a target="_blank" href="https://golang.org/doc/install"><i class="fas fa-external-link-alt"></i></a>
+        sql: `Tenho uma profunda admiração por essa linguagem. <br>
+        Para mim é a linguagem mais completa da atualidade, na qual é necessário ter conhecimento para administrar um banco de dados <br>
+        <a target="_blank" href="https://pt.wikipedia.org/wiki/SQL"><i class="fas fa-external-link-alt"></i></a>
         `
       },
       toolbelt: {
-        title: "Programas Preferidos",
-        subtitle: "Lista de programas que eu gosto muito de usar!",
-        bash: `OhMyZsh mudou a maneira como uso o terminal.<br>
-        Ainda preciso aprender muita coisa sobre essa ferramenta sensacional. <br>
-        <a target="_blank" href="https://github.com/ohmyzsh/ohmyzsh"><i class="fas fa-external-link-alt"></i></a>
+        title: "Motivação",
+        subtitle: "para entrar na Serasa!",
+        value: `eu vejo no dia a dia várias aplicações de vários serviços da serasa como o score e dos seus apontamentos, e me fez perceber que eu posso agregar muito com os conhecimentos do meu dia-a-dia e da faculdade <br>
         `,
         sublime: `Eu já usei VIM, Notepad++ (old times), Brackets, Atom e algumas IDEs. Sempre volto a usar o Sublime 
         por sua velocidade. Não acho que vou mudar de editor tão cedo...<br>
