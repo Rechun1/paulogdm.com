@@ -167,7 +167,7 @@ const locale = {
       professional: {
         title: "Profissional e acadêmico",
         subtitle: "Uma coleção de ferramentas e skills profissionais.",
-        whoami: `Eu sou um desenvolvedor "graduando" em Estátistica e Ciência de dados pelo ICMC da USP. <br>
+        whoami: `Eu sou um desenvolvedor "graduando" em Estatística e Ciência de dados pelo ICMC da USP. <br>
         A maioria das coisas que aprendi e uso no dia a dia do trabalho foi por curiosidade própria. <br>
         Minha Motivação é a minha sede de conhecimento e de alguma forma trasmiti-la . <br>
         `,
@@ -196,9 +196,13 @@ const locale = {
         `
       },
       toolbelt: {
-        title: "Motivação",
-        subtitle: "para entrar na Serasa!",
-        value: `eu vejo no dia a dia várias aplicações de vários serviços da serasa como o score e dos seus apontamentos, e me fez perceber que eu posso agregar muito com os conhecimentos do meu dia-a-dia e da faculdade <br>
+        title: "Projetos",
+        subtitle: "Social e de impacto!",
+        value: `A comida transforma. Comida 100% orgânica que gera impacto ambiental positivo e remunera de forma justa quem produz. Quando o cliente compra uma refeição gastronômica da DuLocal <br>
+        `,
+        euvo: `EuVô é a primeira plataforma digital de transporte acessível e segura para pessoas com mobilidade reduzida, proporcionando liberdade e autonomia no seu dia a dia. <br>
+        `,
+        mosty: `Facilitando o atendimento da Consultora de Imagem. Ferramenta para as Consultoras de Imagem que fideliza as clientes e otimiza o atendimento.  <br>
         `,
         sublime: `Eu já usei VIM, Notepad++ (old times), Brackets, Atom e algumas IDEs. Sempre volto a usar o Sublime 
         por sua velocidade. Não acho que vou mudar de editor tão cedo...<br>
